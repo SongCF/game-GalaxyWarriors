@@ -6,6 +6,6 @@
 2. 双击使用技能（清屏）
 
 # 如何使用
-win32版本：使用vs2012打开项目，生成libcocos2d、libCocosDenshion，然后编译运行GalaxyWarriors即可
-
-android/iOS版本：使用cocos2d-x,2.x版本创建android/iOS项目，然后将Classes、Resource文件夹导入即可
+1. win32版本：clone整个仓库(30M)，使用vs2012打开项目，生成libcocos2d、libCocosDenshion，然后编译运行GalaxyWarriors即可。
+2. android/iOS版本：使用cocos2d-x,2.x版本创建android/iOS项目，然后将Classes、Resource文件夹导入即可。
+3. 由于cocos2dx库本身较大，可只下载Classes, Resources两个文件夹，然后自己用2.x版本创建一个项目，导入Classes和Resources即可，本项目未对引擎做任何更改。
