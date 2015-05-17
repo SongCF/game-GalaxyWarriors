@@ -1,4 +1,4 @@
-# game-GalaxyWarriors
+# game-MoonWarriors
 根据MoonWarriors-html5逻辑，基于cocos2d-x(2.1.3)引擎使用c++实现，图片资源对原版稍有修改。此游戏仅供学习使用。
 
 # 新加功能
