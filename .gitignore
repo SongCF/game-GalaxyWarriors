@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+
+
+# cocos2d-x
+cocos2dx/proj.win32/Debug.win32/
+CocosDenshion/proj.win32/Debug.win32/
+Debug.win32/
+GalaxyWarriors/proj.win32/Debug.win32/
+GalaxyWarriors.sdf
+GalaxyWarriors.v11.suo
